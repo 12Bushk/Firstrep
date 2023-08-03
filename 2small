@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# echo "Enter the series"
+Num=("$@")
+
+Result=($(echo ${Num[*]} | sort -n ))
+
+echo "${Result[@]}"
