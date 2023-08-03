@@ -1,0 +1,1000 @@
+   19  sh -x File3
+   20  vi File3
+   21  sh -x File3
+   22  vi File3
+   23  sh -x File3
+   24  date =%d -d tomorrow
+   25  date +%d -d tomorrow
+   26  vi File3
+   27  sh -x File3
+   28  vi File3
+   29  sh File3
+   30  vi File3
+   31  sh File3
+   32  clear
+   33  sh File3
+   34  vi File3
+   35  sh File3
+   36  vi File3
+   37  cat File3
+   38  sh File3 3 5
+   39  ls
+   40  vi File4
+   41  mv File3 File3.sh
+   42  ls
+   43  vi File3.sh
+   44  sh File3.sh
+   45  sh File4
+   46  vi File4
+   47  sh File4
+   48  vi File3.sh
+   49  sh File3.sh
+   50  clear
+   51  sh File3.sh
+   52  vi File3.sh
+   53  sh File3.sh
+   54  sh -x File3.sh
+   55  sh -x File3.sh 3 4
+   56  sh File3.sh 3 4
+   57  clear
+   58  sh File3.sh 3 4
+   59  sh File3.sh 3 2
+   60  vi File3.sh
+   61  sh -x File3.sh 3 2
+   62  vi File3.sh
+   63  sh -x File3.sh 3 2
+   64  clear
+   65  sh File3.sh
+   66  vi File3.sh
+   67  ls
+   68  vi File3.sh
+   69  sh File3.sh
+   70  vi File3.sh
+   71  sh File3.sh
+   72  vi File3.sh
+   73  sh File3.sh
+   74  vi File3.sh
+   75  sh File3.sh
+   76  sh File3.sh 2 3
+   77  vi File3.sh
+   78  sh File3.sh 2 3
+   79  vi File3.sh
+   80  sh File3.sh 2 3
+   81  vi File3.sh
+   82  sh File3.sh 2 3
+   83  vi File3.sh
+   84  sh File3.sh 2 3
+   85  man expr
+   86  vi File3.sh
+   87  sh File3.sh 2 3
+   88  vi File3.sh
+   89  sh File3.sh 2 3
+   90  exit
+   91  ls
+   92  cat File2
+   93  vi File2
+   94  sh File2
+   95  vi File2
+   96  sh File2
+   97  vi File2
+   98  sh File2
+   99  vi File2
+  100  clear
+  101  sh File2
+  102  vi File2
+  103  sh File2
+  104  vi File2
+  105  sh File2
+  106  vi File2
+  107  sh File2
+  108  clear
+  109  vi File2
+  110  sh File2
+  111  vi File2
+  112  sh File2
+  113  vi File2
+  114  sh File2
+  115  vi File2
+  116  sh File2
+  117  vi File2
+  118  sh File2
+  119  vi File2
+  120  sh File2
+  121  clear
+  122  sh File2
+  123  vi File2
+  124  sh File2
+  125  clear
+  126  sh File2
+  127  vi File2
+  128  clear
+  129  sh File2
+  130  vi File2
+  131  clear
+  132  sh File2
+  133  vi File2
+  134  sh -x File2
+  135  cat File2
+  136  vi File2
+  137  sh -x File2
+  138  clear
+  139  sh -x File2
+  140  sh  File2
+  141  vi File2
+  142  ls -lrt Linux_commands
+  143  vi File2
+  144  clear
+  145  sh  File2
+  146  vi File2
+  147  sh  File2
+  148  exit
+  149  vi File3.sh
+  150  ls
+  151  #!/bin/sh
+  152  # take two integers from the user
+  153  echo "Enter two integers: "
+  154  read a b
+  155  # perform addition
+  156  result=`expr $a + $b`
+  157  # show result
+  158  echo "Result: $result"
+  159  vi File2.sh
+  160  vi File3.sh
+  161  sh File3.sh
+  162  clear
+  163  sh File3.sh
+  164  vi File3.sh
+  165  sh File3.sh
+  166  vi File3.sh
+  167  sh File3.sh
+  168  vi File3.sh
+  169  sh File3.sh
+  170  vi File3.sh
+  171  sh File3.sh
+  172  vi File3.sh
+  173  sh File3.sh
+  174  vi File3.sh
+  175  sh File3.sh
+  176  clear
+  177  sh File3.sh
+  178  man expr
+  179  vi File3.sh
+  180  sh File3.sh
+  181  vi File3.sh
+  182  sh File3.sh
+  183  vi File3.sh
+  184  sh File3.sh
+  185  vi File3.sh
+  186  sh File3.sh
+  187  vi File3.sh
+  188  sh File3.sh
+  189  vi File3.sh
+  190  sh File3.sh
+  191  clear
+  192  sh File3.sh
+  193  vi File3.sh
+  194  sh File3.sh
+  195  vi File3.sh
+  196  sh File3.sh
+  197  ls
+  198  cat File3.sh
+  199  cat File2
+  200  clear
+  201  vi Readfile
+  202  sh Readfile
+  203  sh Readfile File2
+  204  vi Readfile
+  205  sh Readfile File2
+  206  vi Readfile
+  207  sh Readfile File2
+  208  exit
+  209  ls
+  210  cat file1
+  211  cat file2
+  212  cat File2
+  213  vi File2
+  214  clear
+  215  sh File2
+  216  ls
+  217  sh File2
+  218  vi File2
+  219  sh File2
+  220  vi File2
+  221  sh File2
+  222  cd Linux_Commands
+  223  ls
+  224  clear
+  225  vi File2
+  226  cd ..
+  227  ls
+  228  vi File2
+  229  sh File2
+  230  sh -x File2
+  231  vi File2
+  232  clear
+  233  sh -x File2
+  234  vi File2
+  235  sh -x File2
+  236  vi File2
+  237  clear
+  238  ls
+  239  find * -type f
+  240  man find
+  241  vi File2
+  242  sh File2
+  243  vi File2
+  244  sh File2
+  245  echo $File2 | wc -l
+  246  wc -l $File2
+  247  wc -l File2
+  248  vi File2
+  249  sh -x File2
+  250  sh  File2
+  251  vi File2
+  252  clear
+  253  sh  File2
+  254  vi File2
+  255  sh -x File2
+  256  vi File2
+  257  sh -x File2
+  258  vi File2
+  259  sh  File2
+  260  vi File2
+  261  sh  File2
+  262  vi File2
+  263  sh  File2
+  264  vi File2
+  265  sh  File2
+  266  vi File2
+  267  clear
+  268  sh  File2
+  269  vi File2
+  270  sh  File2
+  271  vi File2
+  272  sh  File2
+  273  cat File2
+  274  vi File2
+  275  sh  File2
+  276  vi File2
+  277  sh  File2
+  278  vi File2
+  279  sh  File2
+  280  clear
+  281  sh  File2
+  282  vi File2
+  283  sh  File2
+  284  vi File2
+  285  sh  File2
+  286  vi File2
+  287  sh  File2
+  288  ls
+  289  cd dir
+  290  ls
+  291  mv F-or-D File2
+  292  mv File2 ForD
+  293  ls
+  294  cd .
+  295  cd ..
+  296  mv File2 Ford
+  297  ls
+  298  cat Ford
+  299  clear
+  300  ls
+  301  grep environment *
+  302  vi Pattern
+  303  sh Pattern
+  304  sh -x Pattern
+  305  sh -x Pattern environment
+  306  vi Pattern
+  307  sh -x Pattern environment
+  308  vi Pattern
+  309  clear
+  310  sh Pattern environment
+  311  vi Pattern
+  312  sh Pattern environment
+  313  vi Pattern
+  314  sh Pattern environment
+  315  vi Pattern
+  316  exit
+  317  yes
+  318  sed '1s/the/Thu/1' file1
+  319  sed '1s/the/Thu/1g' file1
+  320  sed '1s/the/Thu/2' file1
+  321  sed '1s/the/Thu/g2' file1
+  322  clear
+  323  $ echo old old old old old | sed -E 's/\<old\>/\n/g4; s/\<old\>/new/g; s/\n/old/g'
+  324  new new new old old
+  325  $ echo old old old old old | sed -E 's/\<old\>/\n/g4; s/\<old\>/new/g; s/\n/old/g'
+  326  new new new old old
+  327   echo old old old old old | sed -E 's/\<old\>/\n/g4; s/\<old\>/new/g; s/\n/old/g'
+  328  man sed
+  329   echo old old old old old | sed -E 's/\<old\>/\n/g4; s/\<old\>/new/g; s/\n/old/g'
+  330  vi Test >  echo old old old old old | sed -E 's/\<old\>/\n/g4; s/\<old\>/new/g; s/\n/old/g'
+  331  ls
+  332  cat file1
+  333  sed '3s/the/Thu/3' file1
+  334  vi file1
+  335  clear
+  336  sed '3s/the/Thu/3' file1 | head -1
+  337  sed '$s/the/Thu/3' 
+  338  sed '$s/the/Thu/3' file1
+  339  vi Test
+  340  sh -x Test
+  341  sed '3s/the/Thu/2' file1
+  342  sed '3,$s/the/Thu/2' file1
+  343  sed '$s/the/Thu/2' file1
+  344  vi file1
+  345  sed '$s/the/Thu/2' file1
+  346  vi file1
+  347  sed '$s/the/Thu/2' file1
+  348  vi file1
+  349  ls
+  350  sed '1,$s/the/Thu/2g' file1
+  351  sed '1,$s/the/Thu/3g' file1
+  352  sed 's/the/Thu/g' file1
+  353  ls
+  354  cat file1
+  355  mkdir If_Commands
+  356  cd If_Commands
+  357  touch Pattern{1..5}
+  358  ls
+  359  vi Pattern1
+  360  vi Pattern3
+  361  vi Pattern4
+  362  vi Pattern5
+  363  vi Pattern2
+  364  grep Leather *
+  365  grep -c Leather *
+  366  man grep
+  367  grep -c Leather * | ls
+  368  ls | grep -c Leather 
+  369  ls | grep -c Leather *
+  370  clear
+  371  grep -h Leather *
+  372  grep
+  373  man grep
+  374  grep Leather *
+  375  grep -H Leather *
+  376  grep -h Leather *
+  377  grep -l Leather *
+  378  vi Findpattern
+  379  ls
+  380  grep -c -h Leather *
+  381  vi Findpattern
+  382  sh Findpattern
+  383  sh Findpattern Leather
+  384  vi Findpattern
+  385  vi Findpattern area
+  386  sh Findpattern area
+  387  exit
+  388  ls
+  389  vi fibo
+  390  sh fibo
+  391  vi fibo
+  392  sh fibo
+  393  vi fibo
+  394  vi fibo1
+  395  sh fibo1
+  396  vi fibo1
+  397  sh fibo1
+  398  vi fibo1
+  399  sh fibo1
+  400  vi fibo1
+  401  vi fibo
+  402  sh fibo
+  403  vi fibo
+  404  sh fibo
+  405  sh -x fibo
+  406  vi fibo
+  407  sh fibo
+  408  4
+  409  sh fibo
+  410  vi fibo
+  411  sh fibo
+  412  yes
+  413  vi fibo1
+  414  vi fibo
+  415  sh fibo
+  416  vi fibo
+  417  sh fibo
+  418  sh -x fibo
+  419  vi fibo
+  420  sh -x fibo
+  421  vi fibo
+  422  sh -x fibo
+  423  sh fibo
+  424  vi fibo
+  425  sh -x fibo
+  426  vi fibo1
+  427  vi fibo
+  428  sh fibo
+  429  sh -x fibo
+  430  vi fibo
+  431  sh fibo
+  432  vi fibo
+  433  sh fibo
+  434  7777777777777777777777777777777777777777/exit
+  435  exit
+  436  yes
+  437  ls
+  438  touch fibo
+  439  vi fibo
+  440  sh fibo
+  441  vi fibo
+  442  sh fibo
+  443  vi fibo
+  444  sh fibo
+  445  clear
+  446  sh fibo
+  447  vi fibo
+  448  sh fibo
+  449  vi fibo
+  450  sh fibo
+  451  vi fibo
+  452  sh fibo
+  453  vi fibo
+  454  sh fibo
+  455  vi fibo
+  456  sh fibo
+  457  vi fibo
+  458  vi Table
+  459  awk ":" f1 {print F1}
+  460  man awk
+  461  awk ":" -f1 [{print F1}] Table
+  462  awk -F ""
+  463  awk -F ":" '{print$1}' Table
+  464  awk -F ":" '{print$3}' Table
+  465  awk -F ":" '{print$3}' Table|tail n-1
+  466  awk -F ":" '{print$3}' Table| tail n-1
+  467  awk -F ":" '{print$3}' Table| tail -n+1
+  468  awk -F ":" '{print$3}' Table| tail -n+2
+  469  tail -n
+  470  awk -F ":" '{print$3}' Table| tail -n
+  471  awk -F ":" '{print$3}' Table| tail -n+2
+  472  vi Table.sh
+  473  sh Table.sh
+  474  vi Table.sh
+  475  sh Table.sh
+  476  exit
+  477  vi Table.sh
+  478  sh Table.sh
+  479  vi Table.sh
+  480  sh Table.sh
+  481  vi Table.sh
+  482  sh Table.sh
+  483  exit
+  484  ls
+  485  cat Ford
+  486  vi Ford
+  487  sh Ford File1
+  488  clear
+  489  vi Ford
+  490  clear
+  491  sh Ford File1
+  492  ls -p
+  493  ls -a
+  494  ls -p | grep -v #/
+  495  ls -p | grep -v "#/"
+  496  ls -p | grep -v "/$"
+  497  vi Ford
+  498  sh Ford
+  499  clear
+  500  vi Ford
+  501  sh Ford
+  502  vi Ford
+  503  sh -x Ford
+  504  vi Ford
+  505  clear
+  506  sh -x Ford
+  507  vi File1
+  508  sh -x Ford
+  509  vi Ford
+  510  sh -x Ford
+  511  vi Ford
+  512  sh -x Ford
+  513  vi Ford
+  514  ls
+  515  cat file1
+  516  cat File4
+  517  sh -x Ford
+  518  clear
+  519  sh Ford
+  520  vi Ford
+  521  sh Ford
+  522  vi Ford
+  523  sh -x Ford
+  524  vi Ford
+  525  clear
+  526  sh Ford
+  527  ls
+  528  rm echo
+  529  sh Ford
+  530  vi Ford
+  531  clear
+  532  sh Ford
+  533  vi Ford
+  534  wc -l File4
+  535  wc -l
+  536  vi Ford
+  537  wc -l File4 | grep "File4"
+  538  wc -l File4 | grep -v "File4"
+  539  wc -l < File4
+  540  vi Ford
+  541  ls
+  542  ls -a
+  543  ls lh
+  544  ls -h
+  545  man ls
+  546  ls -H
+  547  vi Ford
+  548  cd Linux_Commands
+  549  ls
+  550  cd ..
+  551  clear
+  552  sh Ford
+  553  vi Ford
+  554  ls -p
+  555  ls
+  556  vi Pattern
+  557  cat file1
+  558  echo file1 >> Bushra
+  559  cat File1
+  560  echo File1 >> Bushra
+  561  cat File5
+  562  echo File5 >> Bushra
+  563  grep -l "Bushra" *
+  564  cat File5
+  565  echo Bushra >> File5
+  566  echo Bushra >> file1
+  567  echo Bushra >> File1
+  568  grep -l "Bushra" *
+  569  ls -p | grep -l "Bushra" 
+  570  ls -p
+  571  ls -p | grep -l "Bushra"
+  572  grep -l "Bushra"
+  573  clear
+  574  grep -l "Bushra" *
+  575  grep -l "Bushra" | ls -p
+  576  ls -p | grep -l "Bushra" 
+  577  grep -l "Bushra"
+  578  clear
+  579  sh Ford
+  580  vi Ford
+  581  ls
+  582  file1
+  583  cat file1
+  584  cat Bushra
+  585  cat fibo
+  586  clear
+  587  sh Ford
+  588  vi Pattern
+  589  sh Pattern
+  590  sh Pattern Bushra
+  591  vi Pattern
+  592  echo *| grep "Bushra"
+  593  echo *| grep -l "Bushra"
+  594  grep -l Bushra * | grep -v -d
+  595  ls -rt
+  596  ls -rt | wc -l
+  597  exit
+  598  vi Ascending
+  599  sh Ascending
+  600  vi Ascending
+  601  sh Ascending
+  602  vi Ascending
+  603  man sort
+  604  $1
+  605  Var $1
+  606  vi Ascending
+  607  sh Ascending
+  608  vi Ascending
+  609  clear
+  610  sh Ascending
+  611  vi Ascending
+  612  ls
+  613  find -l Bushra
+  614  grep -l Bushra
+  615  vi Age
+  616  sh Age
+  617  vi Age
+  618  sh Age
+  619  vi Age
+  620  sh -x Age
+  621  clear
+  622  sh -x Age
+  623  vi Age
+  624  sh -x Age
+  625  vi Age
+  626  sh -x Age
+  627  vi Age
+  628  sh -x Age
+  629  vi Age
+  630  sh -x Age
+  631  exit
+  632  find -type f Bushra
+  633  grep -l Bushra *
+  634  grepcat file1
+  635  cat file1
+  636  cat File1
+  637  cat Table
+  638  clear
+  639  find type-f ":" Bushra
+  640  find -type f ":" Bushra
+  641  awk -F ":" '{print$1}' Table
+  642  awk -F ":" '{print$3}' Table
+  643  clear
+  644  ls
+  645  cat Table
+  646  ls -lrt
+  647  rm =20
+  648  rm =20]
+  649  vi Age
+  650  awk -type f ":" Table '{print$3}'
+  651  awk -F ":"  '{print$3}' Table
+  652  awk -type f ":" Table '{print$3}' | tail -n+2
+  653  awk -F ":"  '{print$3}' Table | tail -n+2
+  654  vi Age
+  655  sh Age
+  656  vi Age
+  657  sh Age
+  658  clrear
+  659  clear
+  660  sh Age
+  661  vi Age
+  662  sh Age
+  663  vi Age
+  664  sh Age
+  665  vi Age
+  666  which echo
+  667  read -r Table
+  668  vi Age
+  669  sh Age
+  670  vi Age
+  671  sh Age
+  672  vi Age
+  673  sh Age
+  674  vi Table
+  675  vi Age
+  676  sh Age
+  677  sh -x Age
+  678  vi Age
+  679  sh -x Age
+  680  vi Age
+  681  sh -x Age
+  682  vi Age
+  683  sh -x Age
+  684  vi Age
+  685  sh -x Age
+  686  vi Age
+  687  sh -x Age
+  688  clear
+  689  sh -x Age
+  690  vi Age
+  691  sh -x Age
+  692  vi Age
+  693  vi Pyramid
+  694  sh Pyramid
+  695  vi Pyramid
+  696  sh Pyramid
+  697  vi Pyramid
+  698  sh Pyramid
+  699  vi Pyramid
+  700  sh Pyramid
+  701  vi Pyramid
+  702  sh Pyramid
+  703  vi pyramidtest
+  704  sh pyramidtest
+  705  vi pyramidtest
+  706  vi Pyramid
+  707  sh Pyramid
+  708  clear
+  709  vi Pyramid
+  710  vi pyramidtest
+  711  vi Pyramid
+  712  sh Pyramid
+  713  vi Pyramid
+  714  sh Pyramid
+  715  vi Pyramid
+  716  sh Pyramid
+  717  vi Pyramid
+  718  sh Pyramid
+  719  vi Pyramid
+  720  sh Pyramid
+  721  vi Pyramid
+  722  sh Pyramid
+  723  vi Pyramid
+  724  sh Pyramid
+  725  vi Pyramid
+  726  sh Pyramid
+  727  vi Pyramid
+  728  sh Pyramid
+  729  vi Pyramid
+  730  sh Pyramid
+  731  vi 2biggest
+  732  sh 2biggest
+  733  sh 2biggestclear
+  734  clear
+  735  man sort
+  736  vi sort
+  737  sort -n sort
+  738  sort n $sort
+  739  vi 2biggest
+  740  sh 2biggest
+  741  vi 2biggest
+  742  sh 2biggest
+  743  vi 2biggest
+  744  sh 2biggest
+  745  vi 2biggest
+  746  sh 2biggest
+  747  vi 2biggest
+  748  sh 2biggest
+  749  vi 2biggest
+  750  sh 2biggest
+  751  vi sort
+  752  sh sort
+  753  vi sort
+  754  sh sort
+  755  vi sort
+  756  sh sort
+  757  vi sort
+  758  sh sort
+  759  vi sort
+  760  sh sort
+  761  vi sort
+  762  sh sort
+  763  vi sort
+  764  sh sort
+  765  vi sort
+  766  sh sort
+  767  vi sort
+  768  sh sort
+  769  vi sort
+  770  sh sort
+  771  vi sort
+  772  cat /etc/passwd
+  773  sudo su -i 
+  774  sudo su -i
+  775  sudo -iu
+  776  sudo -i
+  777  exit
+  778  cp ./WQ
+  779  EXIT
+  780  ;5u
+  781  Q!
+  782  EXIIT
+  783  mv Ford Ford.sh
+  784  cp ./Ford.sh /home/ec2-user/Scripts
+  785  cd Scripts
+  786  ls
+  787  cat fibo
+  788  cat Arithmatic.sh
+  789  ls
+  790  clear
+  791  ls
+  792  ls -lrt
+  793  vi Stringex.sh
+  794  sh Stringex.sh
+  795  vi Stringex.sh
+  796  sh Stringex.sh
+  797  vi Stringex.sh
+  798  sh Stringex.sh
+  799  vi Stringex.sh
+  800  sh Stringex.sh
+  801  vi Stringex.sh
+  802  sh Stringex.sh
+  803  vi Stringex.sh
+  804  sh Stringex.sh
+  805  vi Stringex.sh
+  806  sh Stringex.sh
+  807  vi Stringex.sh
+  808  6 3
+  809  sh Stringex.sh 6 3
+  810  vi Stringex.sh
+  811  sh Stringex.sh 2 3
+  812  vi Stringex.sh
+  813  sh Stringex.sh 2 3
+  814  vi Stringex.sh
+  815  sh Stringex.sh 2 3
+  816  sh Stringex.sh 1 2
+  817  sh Stringex.sh 2 4
+  818  vi 2small
+  819  sh 2small
+  820  vi 2small
+  821  sh 2small
+  822  vi 2small
+  823  sh 2small
+  824  vi 2small
+  825  sh 2small
+  826  sh 2small 2 3 5 7 8 9
+  827  vi 2small
+  828  sh 2small 2 3 5 7 8 9
+  829  vi 2small
+  830  sh 2small 2 3 5 7 8 9
+  831  vi 2small
+  832  sh 2small 2 3 5 7 8 9
+  833  vi 2small
+  834  sh 2small 2 3 5 7 8 9
+  835  vi 2small
+  836  sh 2small 2 3 5 7 8 9
+  837  vi 2small
+  838  sh 2small 2 3 5 7 8 9
+  839  vi 2small
+  840  sh 2small 2 3 5 7 8 9
+  841  vi 2small
+  842  sh 2small 2 3 5 7 8 9
+  843  vi 2small
+  844  sh 2small 2 3 5 7 8 9
+  845  vi 2small
+  846  sh 2small 2 3 5 7 8 9
+  847  vi 2small
+  848  sh 2small 2 3 5 7 8 9
+  849  vi 2small
+  850  sh 2small 2 3 5 7 8 9
+  851  vi 2small
+  852  sh 2small 2 3 5 7 8 9
+  853  vi 2small
+  854  sh 2small 2 3 5 7 8 9
+  855  vi 2small
+  856  sh 2small 2 3 5 7 8 9
+  857  vi 2small
+  858  sh 2small 2 3 5 7 8 9
+  859  sh 2small 2 3 7 8 4 1
+  860  exit
+  861  ls
+  862  mkdir Scripts
+  863  cd Scripts
+  864  sh pyramid
+  865  sh Pyramid
+  866  cd ..
+  867  cd ../..
+  868  sh Pyramid
+  869  ls
+  870  cd bin
+  871  ls
+  872  cd /home/ec2-user
+  873  ls
+  874  sh Pyramid
+  875  cp . /home/ec2-user/Scripts Pyramid
+  876  cp ./Pyramid /home/ec2-user/Scripts 
+  877  cd If_Commands
+  878  ls
+  879  cat Pattern1
+  880  cd ../
+  881  ls
+  882  sh File3.sh
+  883  clear
+  884  sh File3.sh
+  885  mv File2.sh Arithmatic.sh
+  886  mv File3.sh Arithmatic.sh
+  887  cp ./Arithmatic.sh /home/ec2-user/Scripts 
+  888  ls
+  889  sh fibo
+  890  sh fibo1
+  891  cat fibo1
+  892  cp ./fibo /home/ec2-user/Scripts 
+  893  cp ./fibo1 /home/ec2-user/Scripts 
+  894  clear
+  895  ls
+  896  cat Bushra
+  897  sh file1
+  898  cat File4
+  899  mv File4 Sum.sh
+  900  cp ./Sum.sh /home/ec2-user/Scripts 
+  901  sh Sum.sh
+  902  vi Sum.sh
+  903  sh Sum.sh
+  904  vi Sum.sh
+  905  sh Sum.sh 3 5
+  906  cat File6
+  907  Cat sort
+  908  cat sort
+  909  clear
+  910  sh sort
+  911  cat sort
+  912  vi sort
+  913  sh sort
+  914  vi sort
+  915  ls
+  916  sh Ford
+  917  clear
+  918  vi Ford
+  919  ls
+  920  exit
+  921  sftp> GET Pyramid
+  922  sftp> PUT Pyramid ec2-user@172.31.44.65
+  923  scp Pyramid ec2-user@172.31.44.65: /home/ec2-user
+  924  exit
+  925  ls
+  926  scp Pyramid ec2-user@172.31.44.65:/home/ec2-user
+  927  ls -lrt
+  928  exit
+  929  scp Pyramid ec2-user@172.31.44.65:/home/ec2-user
+  930  ls
+  931  exit
+  932  cd .ssh
+  933  ssh-keygen
+  934  ls -lart
+  935  clear
+  936  ls -lart
+  937  cat id_rsa.pub
+  938  cd ..
+  939  pwd
+  940  ssh 172.31.44.65
+  941  ls
+  942  cd dir
+  943  ls
+  944  cd ..
+  945  scp dir ec2-user@172.31.32.55:/home/ec2-user
+  946  scp dir -r ec2-user@172.31.32.55:/home/ec2-user
+  947  scp Ford ec2-user@172.31.32.55:/home/ec2-user
+  948  scp Ford ec2-user@172.31.44.65:/home/ec2-user
+  949  ls
+  950  scp Ford ec2-user@172.31.32.55:/home/ec2-user
+  951  ls
+  952  cd dhanush
+  953  ls
+  954  cat file1
+  955  cat File1
+  956  clear
+  957  ls
+  958  cd ..
+  959  pwd
+  960  ssh 172.31.44.65
+  961  ls
+  962  scp GET ec2_user@172.31.44.65:/home/ec2-user
+  963  scp GET ec2_user@172.31.44.65:/home/ec2-user/
+  964  ssh 172.31.44.65
+  965  ls
+  966  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC1820Znz9oCp+a/MMHUjarQujh8qV0IqOaX+L3Xuh4sEvfl8Z2LtCfDCaJ9dWntuZE0hxEo6d1kvljVwVY+8AJK9M1AsCbloctXwU7j9T522CstnOtgAS8l2D1nzVPQq4Kn2pQZwgzX9he5iKI5yak4jKFa4giEyuu78itgsW6+TZ0LobSih5j7K3RgUg4ltStXeVNoMrAp9EqiXsN0FqLX5hakSC0x2CTNhiPHGRbSzZcvwQUcC73udoZW/i09WBuAn01KhkiRtKrhdNwwhRJobUU2LwEXKPJG8M6IFjeMvSYLvMZbWMTn6Da6CuYQhBNz6hsX3XzqvLk+GiMCrnx ec2-user@ip-172-31-44-65.ap-south-1.compute.internal
+  967  cd .ssh
+  968  ls -lart
+  969  vi authorized_keys
+  970  ssh 172.31.44.65
+  971  cd ../
+  972  pwd
+  973  ssh 172.31.44.65
+  974  ls
+  975  ls -lrt
+  976  cd shell_scriptys
+  977  cd shell_scripts
+  978  ls
+  979  vi basic_scripts.sh
+  980  sh  basic_scripts.sh
+  981  sh  basic_scripts.sh Bushra Krpet
+  982  cp basic_scripts.sh /home/ec2-user/Scripts
+  983  cd ../
+  984  ls
+  985  cd Scripts
+  986  ls
+  987  cd ..
+  988  cat Ascending
+  989  vi Ascending
+  990  sh  Ascending
+  991  vi Ascending
+  992  sh  Ascending
+  993  vi Ascending
+  994  sh Ascending
+  995  vi Ascending
+  996  sh Ascending
+  997  vi Ascending
+  998  sh Ascending
+  999  vi Ascending > echo "Please enter numbers separated by space: "
+ 1000  cd Scripts
+ 1001  cd Firstrep
+ 1002  ls
+ 1003  git remote -v
+ 1004  git remote set-url origin git@github.com:12Bushk/Firstrep.git
+ 1005  git remote -v
+ 1006  cd ..
+ 1007  ls
+ 1008  cat table
+ 1009  cat Table
+ 1010  cd Firstrep
+ 1011  clear
+ 1012  ls
+ 1013  git status
+ 1014  git pull
+ 1015  git status
+ 1016  ls
+ 1017  history
+ 1018  history > History.txt
